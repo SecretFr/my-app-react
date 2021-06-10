@@ -1,0 +1,19 @@
+{
+    "days": [
+        { "id": 1, "day": 1 },
+        { "id": 2, "day": 2 },
+        { "id": 3, "day": 3 }
+    ],
+
+    "words": [
+        {"id": 1, "day": 1, "eng": "book", "kor": "책", "read": false},
+        {"id": 2, "day": 1, "eng": "apple", "kor": "사과", "read": false},
+        {"id": 3, "day": 2, "eng": "banana", "kor": "바나나", "read": false},
+        {"id": 4, "day": 3, "eng": "solt", "kor": "소금", "read": false},
+        {"id": 5, "day": 1, "eng": "React", "kor": "반응", "read": false},
+        {"id": 6, "day": 1, "eng": "laptop", "kor": "노트북", "read": false},
+        {"id": 7, "day": 3, "eng": "pen", "kor": "연필", "read": false},
+        {"id": 8, "day": 2, "eng": "comic", "kor": "만화책", "read": false},
+        {"id": 9, "day": 3, "eng": "zerotwo", "kor": "제로투", "read": false}
+    ]
+}

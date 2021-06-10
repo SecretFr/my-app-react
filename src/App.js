@@ -5,6 +5,8 @@ import React, { Component, useState } from 'react';
 import Subject from './components/Subject'
 import Nav from './components/Nav'
 import Content from './components/Content'
+import Sample from './components/Sample'
+import DataView from './components/DataView'
 
 //import css
 import './App.css';
@@ -19,6 +21,8 @@ function App() {
       />
       <Nav></Nav>
       <Content></Content>
+      <Sample></Sample>
+      <DataView/>
     </div>
   )
 }
